@@ -3,3 +3,5 @@ mangoes
 banana
 strawberry
 guava
+avacado
+orange
